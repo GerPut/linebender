@@ -1,0 +1,21 @@
+.player-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 1px solid white;
+}
+
+.playerA-heading, .playerB-heading {
+    display: block;
+    text-align: center;
+}
+
+.vl {
+    border-left: 3px solid #61dafb;
+    height: 500px;
+}
+
+.playerA, .playerB {
+    display: flex;
+    flex-direction: column;
+}
