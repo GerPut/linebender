@@ -2,7 +2,7 @@ import React from 'react'
 
 const Active = () => {
     return (
-        <div>
+        <div className="middle">
             <form action="">
                 <label htmlFor="">Last Active A</label>
                 <select name="" id="">

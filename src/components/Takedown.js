@@ -2,7 +2,7 @@ import React from 'react'
 
 const Takedown = () => {
     return (
-        <div>
+        <div className="slider">
             <form action="">
                 <label htmlFor="">Takedown Accuracy A</label>
                 <input type="range" min="1" max="100" ></input>

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Reach = () => {
     return (
-        <div>
+        <div className="middle">
             <form action="">
                 <label htmlFor="">Reach A</label>
                 <select name="" id="">

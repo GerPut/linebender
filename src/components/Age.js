@@ -1,8 +1,9 @@
 import React from 'react'
+import './playercontainer.css'
 
 const Age = () => {
     return (
-        <div>
+        <div className="middle">
             <form action="">
                 <label htmlFor="">Age A</label>
                 <select name="" id="">

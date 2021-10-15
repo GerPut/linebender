@@ -2,7 +2,7 @@ import React from 'react'
 
 const Totalfights = () => {
     return (
-        <div>
+        <div className="middle">
             <form action="">
                 <label htmlFor="">Total Fights A</label>
                 <select name="" id="">

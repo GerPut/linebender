@@ -12,7 +12,7 @@ import Takedown from './Takedown'
 const PlayerContainer = () => {
     return (
         <div className="player-container">
-            <div className="playerA">
+            <div className="players">
                 <Age />
                 <Totalfights />
                 <Wins />

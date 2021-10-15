@@ -2,7 +2,7 @@ import React from 'react'
 
 const Wins = () => {
     return (
-        <div>
+        <div className="middle">
             <form action="">
                 <label htmlFor="">Wins A</label>
                 <input type="number" />
