@@ -15,10 +15,10 @@ const FightStreak = () => {
                     <option value="8">W W L</option>
                     <option value="10">W W W</option>
                 </select>
-                <label htmlFor="">Fight Streak A</label>
+                <label htmlFor="">Fight Streak</label>
             </form>
             <form action="" className="form-margin">
-                <label htmlFor="">Fight Streak B</label>
+                <label htmlFor="">Fight Streak</label>
                 <select name="" id="">
                     <option value="" disabled selected>...</option>
                     <option value="2">L L L</option>

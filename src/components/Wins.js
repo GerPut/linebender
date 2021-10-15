@@ -5,10 +5,10 @@ const Wins = () => {
         <div className="middle">
             <form action="" className="form-margin">
                 <input type="number" className="input-w" />
-                <label htmlFor="">Wins A</label>
+                <label htmlFor="">Wins</label>
             </form>
             <form action="" className="form-margin">
-                <label htmlFor="">Wins B</label>
+                <label htmlFor="">Wins</label>
                 <input type="number" className="input-w" />
             </form>
         </div>

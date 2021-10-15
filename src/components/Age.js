@@ -37,10 +37,10 @@ const Age = () => {
                     <option value="3.4">+14-15 Older</option>
                     <option value="3">+16 Older</option>
                 </select>
-                <label htmlFor="">Age A</label>
+                <label htmlFor="">Age</label>
             </form>
             <form action="" className="form-margin">
-                <label htmlFor="">Age B</label>
+                <label htmlFor="">Age</label>
                 <select name="" id="">
                     <option value="" disabled selected>AGE B</option>
                     <option value="7">-16 Younger</option>

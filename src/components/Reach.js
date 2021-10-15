@@ -18,10 +18,10 @@ const Reach = () => {
                     <option value="4.2">7-8" Disadvantage</option>
                     <option value="4">9"+ Disadvantage</option>
                 </select>
-                <label htmlFor="">Reach A</label>
+                <label htmlFor="">Reach</label>
             </form>
             <form action="" className="form-margin">
-                <label htmlFor="">Reach B</label>
+                <label htmlFor="">Reach</label>
                 <select name="" id="">
                     <option value="" disabled selected>Inches</option>
                     <option value="6">9"+ Advantage</option>

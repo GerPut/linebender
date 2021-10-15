@@ -12,10 +12,10 @@ const Active = () => {
                     <option value="4">11-13 months</option>
                     <option value="3">14 months +</option>
                 </select>
-                <label htmlFor="">Last Active A</label>
+                <label htmlFor="">Last Active</label>
             </form>
             <form action="" className="form-margin">
-                <label htmlFor="">Last Active B</label>
+                <label htmlFor="">Last Active</label>
                 <select name="" id="">
                     <option value="" disabled selected>Athlete B</option>
                     <option value="10">0-4 months</option>

@@ -20,4 +20,17 @@
 
 .frame-heading {
     text-align: center;
+    font-family: 'Gruppo', cursive;
+    font-size: 21px;
+}
+
+.sub-letter {
+    font-family: 'Gruppo', cursive;
+    margin: 0 50px;
+}
+
+.sub-letter-spacing {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
