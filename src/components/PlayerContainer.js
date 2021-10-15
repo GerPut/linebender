@@ -23,14 +23,14 @@ const PlayerContainer = () => {
                 <Reach />
                 <Striking />
                 <Takedown />
-                <div><button>Calculate</button></div>
+                <div><button className="button">Calculate</button></div>
                 <div>
                     <p>Line Fighter A: 1.25 </p>
                     <p>Line Fighter B: 1.70</p>
                 </div>
                 <div className="middle">
-                    <button>Percentage</button>
-                    <button>Moneyline</button>
+                    <button className="button">Percentage</button>
+                    <button className="button">Moneyline</button>
                 </div>
             </div>
         </div>

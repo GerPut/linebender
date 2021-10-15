@@ -5,7 +5,7 @@ const Reach = () => {
         <div className="middle">
             <form action="" className="form-margin">
                 <select name="" id="">
-                    <option value="" disabled selected>Reach A</option>
+                    <option value="" disabled selected>Inches</option>
                     <option value="6">9"+ Advantage</option>
                     <option value="5.8">7-8" Advantage</option>
                     <option value="5.6">5-6" Advantage</option>
@@ -23,7 +23,7 @@ const Reach = () => {
             <form action="" className="form-margin">
                 <label htmlFor="">Reach B</label>
                 <select name="" id="">
-                    <option value="" disabled selected>Reach B</option>
+                    <option value="" disabled selected>Inches</option>
                     <option value="6">9"+ Advantage</option>
                     <option value="5.8">7-8" Advantage</option>
                     <option value="5.6">5-6" Advantage</option>
