@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&display=swap');
 .App {
   text-align: center;
   background-color: #282c34;
@@ -7,4 +8,5 @@
   display: block;
   text-align: center;
   color: white;
+  font-family: 'Gruppo', cursive;
 }

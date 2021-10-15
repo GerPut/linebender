@@ -3,8 +3,7 @@ import React from 'react'
 const Reach = () => {
     return (
         <div className="middle">
-            <form action="">
-                <label htmlFor="">Reach A</label>
+            <form action="" className="form-margin">
                 <select name="" id="">
                     <option value="" disabled selected>Reach A</option>
                     <option value="6">9"+ Advantage</option>
@@ -19,8 +18,9 @@ const Reach = () => {
                     <option value="4.2">7-8" Disadvantage</option>
                     <option value="4">9"+ Disadvantage</option>
                 </select>
+                <label htmlFor="">Reach A</label>
             </form>
-            <form action="">
+            <form action="" className="form-margin">
                 <label htmlFor="">Reach B</label>
                 <select name="" id="">
                     <option value="" disabled selected>Reach B</option>

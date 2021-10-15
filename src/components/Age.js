@@ -4,8 +4,7 @@ import './playercontainer.css'
 const Age = () => {
     return (
         <div className="middle">
-            <form action="">
-                <label htmlFor="">Age A</label>
+            <form action="" className="form-margin">
                 <select name="" id="">
                     <option value="" disabled selected>AGE A</option>
                     <option value="7">-16 Younger</option>
@@ -38,8 +37,9 @@ const Age = () => {
                     <option value="3.4">+14-15 Older</option>
                     <option value="3">+16 Older</option>
                 </select>
+                <label htmlFor="">Age A</label>
             </form>
-            <form action="">
+            <form action="" className="form-margin">
                 <label htmlFor="">Age B</label>
                 <select name="" id="">
                     <option value="" disabled selected>AGE B</option>

@@ -10,7 +10,7 @@ const Striking = () => {
             </form>
             <form action="">
                 <label htmlFor="">Striking Accuracy B</label>
-                <input type="range" min="1" max="100" oninput="num.value = this.value"></input>
+                <input type="range" min="1" max="100" oninput="num.value = this.value" className="slideball"></input>
                 <output id="num">0</output>%
             </form>
         </div>

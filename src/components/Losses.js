@@ -3,13 +3,13 @@ import React from 'react'
 const Losses = () => {
     return (
         <div className="middle" >
-            <form action="">
+            <form action="" className="form-margin">
+                <input type="number" className="input-w" />
                 <label htmlFor="">Losses A</label>
-                <input type="number" />
             </form>
-            <form action="">
+            <form action="" className="form-margin">
                 <label htmlFor="">Losses B</label>
-                <input type="number" />
+                <input type="number" className="input-w" />
             </form>
         </div>
     )

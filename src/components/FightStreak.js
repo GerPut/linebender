@@ -2,9 +2,8 @@ import React from 'react'
 
 const FightStreak = () => {
     return (
-        <div>
-            <form action="">
-                <label htmlFor="">Fight Streak A</label>
+        <div className="middle">
+            <form action="" className="form-margin">
                 <select name="" id="">
                     <option value="" disabled selected>...</option>
                     <option value="2">L L L</option>
@@ -16,8 +15,9 @@ const FightStreak = () => {
                     <option value="8">W W L</option>
                     <option value="10">W W W</option>
                 </select>
+                <label htmlFor="">Fight Streak A</label>
             </form>
-            <form action="">
+            <form action="" className="form-margin">
                 <label htmlFor="">Fight Streak B</label>
                 <select name="" id="">
                     <option value="" disabled selected>...</option>

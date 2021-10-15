@@ -3,13 +3,13 @@ import React from 'react'
 const Wins = () => {
     return (
         <div className="middle">
-            <form action="">
+            <form action="" className="form-margin">
+                <input type="number" className="input-w" />
                 <label htmlFor="">Wins A</label>
-                <input type="number" />
             </form>
-            <form action="">
+            <form action="" className="form-margin">
                 <label htmlFor="">Wins B</label>
-                <input type="number" />
+                <input type="number" className="input-w" />
             </form>
         </div>
     )
